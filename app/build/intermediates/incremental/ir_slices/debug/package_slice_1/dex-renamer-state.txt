@@ -1,0 +1,4 @@
+#Sat May 26 10:52:50 CEST 2018
+base.0=C\:\\Users\\PC\\Desktop\\Qaisar\\CatchDragons\\CatchDragons\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+path.0=classes.dex
+renamed.0=classes.dex
